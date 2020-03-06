@@ -1,0 +1,26 @@
+matricula_1;FullName;Cargo;ValorHora;﻿data;horario_entrada;horario_saida;valor
+0001;José dos Santos;Gerente de Produção; 51.132857143;2019/04/01 00:00:00.000;08:37;17:45; 1000,0
+0001;José dos Santos;Gerente de Produção; 51.132857143;2019/04/02 00:00:00.000;08:41;17:00; 1000,0
+0001;José dos Santos;Gerente de Produção; 51.132857143;2019/04/03 00:00:00.000;08:00;17:00; 1000,0
+0002;Maria da Silva;Vice Presidente ; 246.781666667;2019/04/01 00:00:00.000;08:00;17:00;
+0002;Maria da Silva;Vice Presidente ; 246.781666667;2019/04/02 00:00:00.000;08:00;17:00;
+0002;Maria da Silva;Vice Presidente ; 246.781666667;2019/04/03 00:00:00.000;08:00;17:00;
+0013;Ricardo Dória;Consultor Externo; 125.0;2019/04/03 00:00:00.000;08:00;20:00;
+0033;Luana Cardoso;Assistente Produção; 6.685178571;2019/04/01 00:00:00.000;08:00;17:00; 560,0
+0033;Luana Cardoso;Assistente Produção; 6.685178571;2019/04/02 00:00:00.000;10:00;17:00; 560,0
+0104;Bruna Rocha;Estagiário; 3.846153846;2019/04/01 00:00:00.000;11:00;19:00;
+0112;Rafael Dias;Estatístico; 115.00922619;2019/04/01 00:00:00.000;12:00;20:00;
+0112;Rafael Dias;Estatístico; 115.00922619;2019/04/02 00:00:00.000;12:05;20:00;
+0112;Rafael Dias;Estatístico; 115.00922619;2019/04/03 00:00:00.000;11:00;21:37;
+0222;Juliana dos Santos;Assistente Produção; 8.138478261;2019/04/01 00:00:00.000;07:00;17:00;
+0222;Juliana dos Santos;Assistente Produção; 8.138478261;2019/04/02 00:00:00.000;07:00;17:00;
+0222;Juliana dos Santos;Assistente Produção; 8.138478261;2019/04/03 00:00:00.000;07:00;17:00;
+0302;Patrícia dos Santos;Analista de Sistemas; 20.638507463;2019/04/02 00:00:00.000;09:00;18:00;
+0771;Pedro de Assis;Assistente Produção; 6.685178571;2019/04/01 00:00:00.000;09:00;18:00;
+0771;Pedro de Assis;Assistente Produção; 6.685178571;2019/04/02 00:00:00.000;09:15;18:27;
+0777;Marcelo Neto;Presidente; 297.619047619;2019/04/01 00:00:00.000;05:00;23:00; 35501,47
+0777;Marcelo Neto;Presidente; 297.619047619;2019/04/02 00:00:00.000;05:35;23:00; 35501,47
+0777;Marcelo Neto;Presidente; 297.619047619;2019/04/03 00:00:00.000;05:59;23:00; 35501,47
+1002;Nilton Freitas;Vigia; 12.124148936;2019/04/01 00:00:00.000;14:00;22:00;
+1002;Nilton Freitas;Vigia; 12.124148936;2019/04/02 00:00:00.000;15:00;23:00;
+1002;Nilton Freitas;Vigia; 12.124148936;2019/04/03 00:00:00.000;16:00;23:30;
