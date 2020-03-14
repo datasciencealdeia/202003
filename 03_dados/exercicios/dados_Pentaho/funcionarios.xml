@@ -1,0 +1,93 @@
+﻿<?xml version="1.0"?>
+<Company>
+  <BusinessName>AgroXPTO SA</BusinessName>
+  <Employee>
+      <reg>0001</reg>
+      <FirstName>José</FirstName>
+      <LastName>dos Santos</LastName>
+      <Email>jose.dosantos@agroxp.com.br</Email>
+      <Position>GP001</Position>
+      <Worktime>168</Worktime>
+  </Employee>
+    <Employee>
+      <reg>0002</reg>
+      <FirstName>Maria</FirstName>
+      <LastName>da Silva</LastName>
+      <Email>maria.dasilva@agroxp.com.br</Email>
+      <Position>VP005</Position>
+      <Worktime>168</Worktime>
+  </Employee>
+  <Employee>
+      <reg>0033</reg>
+      <FirstName>Luana</FirstName>
+      <LastName>Cardoso</LastName>
+      <Email>luana.cardoso@agroxp.com.br</Email>
+      <Position>AP010</Position>
+      <Worktime>168</Worktime>
+  </Employee>
+  <Employee>
+      <reg>0104</reg>
+      <FirstName>Bruna</FirstName>
+      <LastName>Rocha</LastName>
+      <Email>bruna.rocha@agroxp.com.br</Email>
+      <Position>ESTAG</Position>
+      <Worktime>130</Worktime>
+  </Employee>
+  <Employee>
+      <reg>1002</reg>
+      <FirstName>Nilton</FirstName>
+      <LastName>Freitas</LastName>
+      <Email>nilton.freitas@agroxp.com.br</Email>
+      <Position>VG050</Position>
+      <Worktime>188</Worktime>
+  </Employee>
+  <Employee>
+      <reg>0777</reg>
+      <FirstName>Marcelo</FirstName>
+      <LastName>Neto</LastName>
+      <Email>marcelo.neto@agroxp.com.br</Email>
+      <Position>P1</Position>
+      <Worktime>168</Worktime>
+  </Employee>
+  <Employee>
+      <reg>0222</reg>
+      <FirstName>Juliana</FirstName>
+      <LastName>dos Santos</LastName>
+      <Email>juliana.dosantos@agroxp.com.br</Email>
+      <Position>AP010</Position>
+      <Worktime>138</Worktime>
+  </Employee>
+  <Employee>
+      <reg>0302</reg>
+      <FirstName>Patrícia</FirstName>
+      <LastName>dos Santos</LastName>
+      <Email>patricia.dosantos@agroxp.com.br</Email>
+      <Position>AN500</Position>
+      <Worktime>268</Worktime>
+  </Employee>
+  <Employee>
+    <reg>0112</reg>
+      <FirstName>Rafael</FirstName>
+      <LastName>Dias</LastName>
+      <Email>rafael.dias@agroxp.com.br</Email>
+      <Position>EST01</Position>
+      <Worktime>168</Worktime>
+  </Employee>
+  <Employee>
+    <reg>0771</reg>
+      <FirstName>Pedro</FirstName>
+      <LastName>de Assis</LastName>
+      <Email>pedro.deassis@agroxp.com.br</Email>
+      <Position>AP010</Position>
+      <Worktime>168</Worktime>
+  </Employee>
+  <Employee>
+    <reg>0013</reg>
+      <FirstName>Ricardo</FirstName>
+      <LastName>Dória</LastName>
+      <Email>ricardo.doria@agroxp.com.br</Email>
+      <Position>EXT01</Position>
+      <Worktime>40</Worktime>
+  </Employee>
+</Company>
+
