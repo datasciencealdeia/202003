@@ -12,8 +12,8 @@ n_classes = 2
 caracteristicas=['Laranja','Branco','Azul Escuro','Azul Jeans','Marrom']
 rotulos=['bart','homer']
     
-treino = pd.read_csv('/home/ds/git/201909/03_dados/desafio pessoal/treino.csv', sep= ';', header = None) 
-teste = pd.read_csv('/home/ds/git/201909/03_dados/desafio pessoal/teste.csv', sep= ';', header = None)
+treino = pd.read_csv('/home/ds/git/202003/03_dados/desafio pessoal/treino.csv', sep= ';', header = None) 
+teste = pd.read_csv('/home/ds/git/202003/03_dados/desafio pessoal/teste.csv', sep= ';', header = None)
     
 #Carrega variáveis preditivas e rótulos
 X_treino, y_treino = treino.values[:, 0:5], treino.values[:, 6]
@@ -45,6 +45,6 @@ print (cm)
 dot_data = StringIO()
 export_graphviz(classificador, out_file=dot_data, filled=True, rounded=True, special_characters=True, feature_names=caracteristicas, class_names=rotulos)
 graph = pydotplus.graph_from_dot_data(dot_data.getvalue())  
-graph.write_png("/home/ds/git/201909/03_dados/desafio pessoal/dtree.png")
+graph.write_png("/home/ds/git/202003/03_dados/desafio pessoal/dtree.png")
 
 
